@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scrummasterdaily",
+  "private_key_id": "8f9c7f100d8d2d0edc71df70d903b1d3c1d3801a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCSoX29RD2B65aY\nRLlmB20P9hW8hdN3Sxe2xQuA2Vo9Fyz7nI0r4VptzJXW7+KjA2cosfVrhaWBWHc8\nQ2utk9fpHlz2uHWVsoJSQTKoYUX4xTLGQrvYUT4b3QgdbqgpEJcmWKCZo/WAhfsd\nJ8Wk/qcXQvHdV+rzVguGS77O0xZxECq9WxeTVU+jPCtwwhZx30zEYTsFBo348pKW\nnoFCu6ScgIKlVwW0TaSZTiogMfgTQCxajSjc+Ljl4XlAtrQ33KZzd2/lO69FfY3m\nRHRDscOfOEEkndfMwowLd+bBHhS0ewLuL7tKQ34yv6Uz6LR4M1rqzafbdDye5Kba\nDHS3e8Z3AgMBAAECggEACk/UfzhEPq9G1Q8inkpczdfa2a1Sdk8jH0wTNFM7LxTc\nQ0oHfMCcsrnfbcRLNkPM5oYOKHe3ig88VdId/MQePCHRz6egQum3YLmyENJdo98z\nMQTMOUW/x7p1hPBdX7a8rBcxtpLBXXHOrtNQ6UeskFlTMUneCl5D2Dfadtwa3Dkq\n3r0/qiWcAlUu9hwsaS/Lto77HCyCQAe0UOwztykrai6wvaivOmy8IzadZX5qf2Am\njcdxEO08beVtRXwfcq3KUKLM5wBZoNJYfOZUThJt33v8GgUAyw7kfFm83JvZOe07\nqRtp06KiOaP0XdJ4HgWjI7n2R1J2G3yvluDhA/Z1xQKBgQDI3TIAXpHJyTDrL1KO\nxgLqkdpZW7K7F0g4DHOopHIph2uKDPW30nXrQgViiSjCMckiWxmA2XIoLeA2Jap1\n5Mr7pt5hOImwlTvRxizaq66qsOWEWV2Y69JXFIwr4/kOfKLU1tKJHT/MHi+E+enz\nhcdmV4Z4HUQja497WphGSgbDqwKBgQC64U2+kAOYm1neiq43cHBTsQ7cu0izzsFH\nq3AJPRiCJQ5o8sWrLhz31lFT0r7vwvUI9/hceBu6PgDgB6hRE4eABGiJcejPcC0h\n/1S6Bro7OTdqctzGg/OjGgvF4wr7pNB3MQFDF5C1jDldWtNcJ/EJfWpj9LESVR70\nO50AYl28ZQKBgDb4Can+N2mAbKnADpjR6ZRmC9oudRAsQ/BKwBAjyLZCwBRMjaYb\nq3eRXsXjgUr7su56/dS8LTh/rX9D+Y0/6qjJtsvmXA/+FxvGXxoMp8VAmd8JUcr6\nplp8XgvY3JyxUSJsE7vATGhAzoJWnkatkq8YPs16PN5wnhiE52087vL3AoGAEJ2l\nrvLZDwGJDQthkBZUNmzAuImCXlJcxwWMMZYYDsJCtLwZLS4tby/EDWLojSLVbJW3\npGkddgK7SzADHCpTWuOJc+cH3yHHMYWlP+EHP+rHbZSG4rOqvu666z5TpKozytU1\nmoSG3k14cD96GXCHsuNOyVJhSBL/bJG8VONqGC0CgYBRMBxcJhfnn0zGLU2Q5aoh\noJXuvh029H63gF1dZzMrCnXyHl6XJvtqoLThSLAG3JUNQVxpI2fHP166gowjdCIi\nlEs+Nr/lFXNUgM9GtEhJm1L0iWMKdnuDyqz2oiHh55473YWtoWq0w3SSLsyxQKOA\nP3H8W48gnogCu03v0gwNfg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "scrummasterdaily@appspot.gserviceaccount.com",
+  "client_id": "118054710251026573145",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scrummasterdaily%40appspot.gserviceaccount.com"
+}
