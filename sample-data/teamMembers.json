@@ -1,27 +1,74 @@
 ﻿[
   {
-    "FirstName": "Pero",
-    "LastName": "Perić",
+    "FirstName": "Tomislav",
+    "LastName": "Pavić",
+    "AvatarVersion": 1,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Mia",
+    "LastName": "Tomašević",
+    "AvatarVersion": 4,
     "AvatarURL": ""
   },
   {
     "FirstName": "Marko",
-    "LastName": "Markić",
+    "LastName": "Mandić",
+    "AvatarVersion": 1,
     "AvatarURL": ""
   },
   {
-    "FirstName": "Ivo",
-    "LastName": "Ivić",
+    "FirstName": "Marko",
+    "LastName": "Krencer",
+    "AvatarVersion": 1,
     "AvatarURL": ""
   },
   {
-    "FirstName": "Pero",
-    "LastName": "Deformero",
+    "FirstName": "Marija",
+    "LastName": "Blašković",
+    "AvatarVersion": 1,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Ivor",
+    "LastName": "Herak",
+    "AvatarVersion": 1,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Ivana",
+    "LastName": "Dubravčić",
+    "AvatarVersion": 4,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Ivan",
+    "LastName": "Pranjić",
+    "AvatarVersion": 1,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Ardita",
+    "LastName": "Šalja",
+    "AvatarVersion": 1,
     "AvatarURL": ""
   },
   {
     "FirstName": "Ante",
-    "LastName": "Antić",
+    "LastName": "Rendulić",
+    "AvatarVersion": 1,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Adrijan",
+    "LastName": "Kolenić",
+    "AvatarVersion": 1,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Krešimir",
+    "LastName": "Delija",
+    "AvatarVersion": 3,
     "AvatarURL": ""
   }
 ]
