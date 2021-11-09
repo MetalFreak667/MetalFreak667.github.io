@@ -9,6 +9,10 @@
       "url": ".nojekyll"
     },
     {
+      "hash": "sha256-LngAtAToJwO4jrx3jpQxyRwdg8XXrDQ4ECJiHuSzq1k=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-8aM9R9K90X6h+KPDW4OzrEh071mAs7dvAQxjBxAZQAc=",
       "url": "css\/app.css"
     },
@@ -65,7 +69,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-HGIvRdziVNH08NTYiQb6Udsx4SlQuY8OGhmalKrBZwU=",
+      "hash": "sha256-DgESAyq3tOb8dPTyuslUy9FRLNbH4Q3n3eQW5pS24\/Y=",
       "url": "index.html"
     },
     {
@@ -73,7 +77,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-AjzWa9WmaYqsxO8iq9E2hj+hVKh56rgYHdeq59U7K6M=",
+      "hash": "sha256-ldXs5zxQ11ayGoORp4z6iBf57CDDG8Cbr4FFvCfphzM=",
       "url": "sample-data\/teamMembers.json"
     },
     {
@@ -905,11 +909,11 @@
       "url": "_framework\/System.Linq.Async.dll"
     },
     {
-      "hash": "sha256-f3rZCBI1\/\/GYGM9wWARz1GFJFCDwjarn8rdbTajzgrA=",
+      "hash": "sha256-UsuEakvKWc5ZZ\/A\/BQQm8j9vm8MErwb2iNxJT7Jx1n4=",
       "url": "_framework\/DailyManager.dll"
     },
     {
-      "hash": "sha256-OkNR+2u4uGUVJfvg1XiulPG3NQ70tzwYcEPSo8FvQ0Y=",
+      "hash": "sha256-y+dSHSrrcEbb32qaKXpPBRVtDSbjVRfD6hHXx3XrSlk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -917,5 +921,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "+XyPWoEz"
+  "version": "EOFz0oAD"
 };
