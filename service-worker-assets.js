@@ -909,11 +909,11 @@
       "url": "_framework\/System.Linq.Async.dll"
     },
     {
-      "hash": "sha256-UsuEakvKWc5ZZ\/A\/BQQm8j9vm8MErwb2iNxJT7Jx1n4=",
+      "hash": "sha256-+TjvLH+lLEbWBW3VRgXxVq2iVqE4ye7I1gnW76EiF\/M=",
       "url": "_framework\/DailyManager.dll"
     },
     {
-      "hash": "sha256-y+dSHSrrcEbb32qaKXpPBRVtDSbjVRfD6hHXx3XrSlk=",
+      "hash": "sha256-ZTbAVetosMKJxX4mPyP2uC83TCIYqinui7toaL9KW9c=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -921,5 +921,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "EOFz0oAD"
+  "version": "EEZ+xm91"
 };
