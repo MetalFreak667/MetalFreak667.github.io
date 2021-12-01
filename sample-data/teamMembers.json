@@ -96,5 +96,12 @@
     "AvatarVersion": 3,
     "Active": true,
     "AvatarURL": ""
+  },
+  {
+    "FirstName": "Robert",
+    "LastName": "Bilandžija",
+    "AvatarVersion": 3,
+    "Active": true,
+    "AvatarURL": ""
   }
 ]
