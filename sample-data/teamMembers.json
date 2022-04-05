@@ -138,5 +138,20 @@
     "AvatarVersion": 3,
     "Active": true,
     "AvatarURL": ""
-  }    
+  },
+  {
+    "FirstName": "Bojan",
+    "LastName": "Simonoski",
+    "AvatarVersion": 3,
+    "Active": true,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Igor",
+    "LastName": "Pajeska",
+    "AvatarVersion": 3,
+    "Active": true,
+    "AvatarURL": ""
+  }      
+    
 ]
