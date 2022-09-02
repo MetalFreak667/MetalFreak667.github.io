@@ -7,13 +7,6 @@
     "AvatarURL": ""
   },
   {
-    "FirstName": "Tomislav",
-    "LastName": "Pavić",
-    "AvatarVersion": 3,
-    "Active": true, 
-    "AvatarURL": ""
-  },
-  {
     "FirstName": "Vedran",
     "LastName": "Drenški",
     "AvatarVersion": 3,
@@ -166,6 +159,13 @@
     "AvatarVersion": 3,
     "Active": true,
     "AvatarURL": ""
-  }    
+  },
+  {
+    "FirstName": "Boris",
+    "LastName": "Todorović",
+    "AvatarVersion": 3,
+    "Active": true,
+    "AvatarURL": ""
+  }       
     
 ]
