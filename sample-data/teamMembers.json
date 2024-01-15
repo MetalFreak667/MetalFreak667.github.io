@@ -14,36 +14,36 @@
     "AvatarURL": ""
   },
   {
-    "FirstName": "Marko",
-    "LastName": "Krencer",
+    "FirstName": "Manuela",
+    "LastName": "Kosović",
     "AvatarVersion": 3,
     "Active": true,
     "AvatarURL": ""
   },
     {
-    "FirstName": "Kruno",
+    "FirstName": "Vanja",
+    "LastName": "Lazić",
+    "AvatarVersion": 3,
+    "Active": true,
+    "AvatarURL": ""
+  },
+    {
+    "FirstName": "Jozo",
+    "LastName": "Jurčević",
+    "AvatarVersion": 3,
+    "Active": true,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Karlo",
+    "LastName": "Htuškovec",
+    "AvatarVersion": 3,
+    "Active": true,
+    "AvatarURL": ""
+  },
+  {
+    "FirstName": "Silvestar",
     "LastName": "",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-    {
-    "FirstName": "Ana",
-    "LastName": "Gotić",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Marija",
-    "LastName": "Blašković",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Ivor",
-    "LastName": "Herak",
     "AvatarVersion": 3,
     "Active": true,
     "AvatarURL": ""
@@ -63,85 +63,8 @@
     "AvatarURL": ""
   },
   {
-    "FirstName": "Ante",
-    "LastName": "Rendulić",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },  
-  {
     "FirstName": "Krešimir",
     "LastName": "Delija",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Stefan",
-    "LastName": "Popović",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Dorian",
-    "LastName": "Rožanković",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Goran",
-    "LastName": "Borevković",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Robert",
-    "LastName": "Bilandžija",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Morana",
-    "LastName": "Ivančević",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Anica",
-    "LastName": "Kuhar",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Jasen",
-    "LastName": "Kostelac",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Jozo",
-    "LastName": "Jurčević",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Bojan",
-    "LastName": "Simonoski",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  },
-  {
-    "FirstName": "Igor",
-    "LastName": "Pajeska",
     "AvatarVersion": 3,
     "Active": true,
     "AvatarURL": ""
@@ -153,19 +76,12 @@
     "Active": true,
     "AvatarURL": ""
   },
-  {
-    "FirstName": "Erik",
-    "LastName": "Galina",
+ 
+     {
+    "FirstName": "Iva",
+    "LastName": "Nikić",
     "AvatarVersion": 3,
     "Active": true,
     "AvatarURL": ""
   },
-  {
-    "FirstName": "Boris",
-    "LastName": "Todorović",
-    "AvatarVersion": 3,
-    "Active": true,
-    "AvatarURL": ""
-  }       
-    
 ]
